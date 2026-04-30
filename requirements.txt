@@ -1,1 +1,2 @@
-bitcoin, ethereum
+aiohttp
+reportlab
